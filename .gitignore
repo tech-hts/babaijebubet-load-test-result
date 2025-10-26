@@ -1,0 +1,27 @@
+# Results and temporary artifacts
+results/
+!results/**/.keep
+
+# JMeter artifacts
+*.jtl
+*.log
+
+# Node/Bower caches if ever introduced
+node_modules/
+bower_components/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+
+# Allow GitHub Pages content
+!docs/
+stakeholder-*.csv
+results/
+*.jtl
+*.log
+*.tmp
+html/
+**/html/
+jmeter.log
+
