@@ -16,6 +16,8 @@ Desktop.ini
 
 # Allow GitHub Pages content
 !docs/
+!docs/**/bower_components/
+!docs/**/bower_components/**
 stakeholder-*.csv
 results/
 *.jtl
